@@ -9,7 +9,7 @@ Team Members:
 </ol>
 
 ## **Description**
-Attribute Information</a></li>
+Attribute Information<br><br>
 Age : Numerical</a></li>
 Job : Categorical (Admin, Blue-Collar, Entrepreneur,  Housemaid, Management, Retired, Self-Employed, Services, Student, Technician, Unemployed, Unknown)</a></li>
 Day : Categorical, Last contact day </a></li>
